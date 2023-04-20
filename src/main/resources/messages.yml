@@ -1,0 +1,5 @@
+added-date: "&aHet voedsel is nu &2%days% &adagen houdbaar. (&2%datum%&a)"
+noperms: "&cNo Permissions"
+usage: "&2Gebruik: &a/houdbaar (aantal dagen)"
+overdatum: "&cJe eten is over de datum heen."
+players-only: "&cEnkel spelers kunnen dit doen."

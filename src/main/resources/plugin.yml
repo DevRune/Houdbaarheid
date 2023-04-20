@@ -1,0 +1,6 @@
+name: Houdbaarheid
+version: '${project.version}'
+main: com.rune.houdbaarheid.Main
+commands:
+  houdbaar:
+    usage: /<command> (dagen)
